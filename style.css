@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow-y: hidden;
+}
+
+
+.button {
+    position: absolute; 
+    top: 55vh; 
+    left: 94.1vw; 
+    z-index: 5;
+    border: none;
+    background-color: transparent; 
+    padding: 0;
+    font-size: inherit; 
+    color: #ffffff; 
+    cursor: pointer; 
+}
+
+.button:hover {
+    color:rgb(100, 255, 242);
+}
+
+.button2 {
+    position: absolute;
+    top: 45vh; 
+    left: 94.6vw;
+    z-index: 5; 
+    border: none; 
+  background-color: transparent; 
+  padding: 0; 
+  font-size: inherit; 
+  color: #ffffff; 
+  cursor: pointer; 
+  
+}
+
+.button2:hover {
+    color:rgb(100, 255, 242);
+}
+
+.button3 {
+    position: absolute; 
+    top: 50vh; 
+    left: 94vw; 
+    z-index: 5; 
+    border: none; 
+    background-color: transparent;
+    padding: 0; 
+    font-size: inherit; 
+    color: #ffffff; 
+    cursor: pointer; 
+    
+}
+
+.button3:hover {
+    color:rgb(100, 255, 242);
+}
